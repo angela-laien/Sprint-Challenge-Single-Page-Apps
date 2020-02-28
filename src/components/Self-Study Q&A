@@ -1,0 +1,3 @@
+1. Explain benefit(s) using client-side routing?
+
+The benefit of using client-side routing is that it can avoid making a full page reload every time users change pages.
